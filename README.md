@@ -20,5 +20,7 @@ It gives several advanced options available through an expandable menu, activate
 Produced with Fooocus AI:- First Image: - Cyberpunk City, Squirrel, Realistic, City should be in Background. Second Image: - Realistic Portrait of Russian Woman with Blonde Hair, No Make Up, influencer.
 
 First Image was rendered on Macbook Pro M3 Pro took 10 Minutes and Second Image was rendered on Macbook Air M3 took 80 Minutes.
+https://drive.google.com/file/d/1lM_M6eQc6-oluonLdxCu0G00BygrwWZ0/view?usp=sharing
+https://drive.google.com/file/d/1T-_mXFN3g3TTQmse3FpNs1PtBwmHVdfU/view?usp=sharing
 
 # ALL Thanks to this GITHUB Repository: - (https://github.com/lllyasviel/Fooocus)
