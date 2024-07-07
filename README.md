@@ -21,4 +21,4 @@ Produced with Fooocus AI:- First Image: - Cyberpunk City, Squirrel, Realistic, C
 
 First Image was rendered on Macbook Pro M3 Pro took 10 Minutes and Second Image was rendered on Macbook Air M3 took 80 Minutes.
 
-# ALL Thanks to this GITHUB Repository: - [https://lnkd.in/gtqpa9_a](https://github.com/lllyasviel/Fooocus)
+# ALL Thanks to this GITHUB Repository: - (https://github.com/lllyasviel/Fooocus)
